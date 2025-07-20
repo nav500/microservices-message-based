@@ -2,6 +2,9 @@
 
 This is a boilerplate/demo microservice project built using **NestJS**. It demonstrates a simple **request-response message-based** communication pattern between an API Gateway and two microservices: `orders` and `products`.
 
+![Microservices architecture image](https://iili.io/FwEyhF4.png "Optional Tooltip")
+
+
 ---
 
 ## 📁 Project Structure
